@@ -14,5 +14,5 @@ The study uses five waves of the Cyber Security Longitudinal Survey (CSLS).
 │   ├── 01_longitudinal_weight.R
 │   ├── 02_model_analyses.R
 │   └── 03_plot.R
-└── supplementary_material/
-    └── sensitivity analysis scripts for incident-specific outcomes
+└── crime_specific_analyses/
+    └── scripts for incident-specific outcomes
